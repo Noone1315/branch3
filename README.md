@@ -16,3 +16,9 @@ First Header | Second Header
 -------------|--------------
 Content from cell 1 | Content from cell 2
 Content it the first column | Content it the second column
+
+This is Table 2:
+First Header | Second Header
+-------------|--------------
+Content from cell 1 | Content from cell 2
+Content it the first column | Content it the second column
