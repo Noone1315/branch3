@@ -6,7 +6,7 @@ This is a quote:
 This is inline code `<addr>`
 
 This is Task list:
-- [x] @mentions , #refs, []links(), **formatting**, and <del>tags</del> supported
+- [x] @mentions , #refs, [links](), **formatting**, and <del>tags</del> supported
 - [x] Do a homework
 - [x] Sleep
 - [ ] Go to R0b0C0DE
